@@ -8,6 +8,7 @@ My first React+Redux app (https://vladimircreative.github.io/star-wars/)
 ## What I've learned:
 + Actions and dispatches
 + Reducers
++ Middleware
++ Promises
 + Async actions
 + Thunks
-+ Promises
