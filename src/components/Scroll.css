@@ -1,0 +1,9 @@
+.scrollContainer {
+    overflow-y: scroll; 
+    height: 62vh;
+    margin-top: 10vh;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
